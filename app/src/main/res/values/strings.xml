@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Task_7_Meteo</string>
+    <string name="error">Ошибка: требуется смена региона!</string>
+    <string name="url">http://icomms.ru/</string>
+    <string name="night">Ночь</string>
+    <string name="morning">Утро</string>
+    <string name="day">День</string>
+    <string name="evening">Вечер</string>
+    <string name="day_temp">Днём:</string>
+    <string name="night_temp">Ночью:</string>
+    <string name="title_tod">Время суток</string>
+    <string name="title_pressure">Атмосферное давление</string>
+    <string name="title_temp">Температура воздуха</string>
+    <string name="title_feel">Ощущаемая температура</string>
+    <string name="title_humidity">Влажность воздуха</string>
+    <string name="title_wind">Направление и скорость ветра</string>
+    <string name="title_cloud">Осадки</string>
+</resources>
